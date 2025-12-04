@@ -144,19 +144,15 @@ Place images under `resources/screenshots/` and reference them here.
 - Q: Can I use this for teaching?
 	- A: Yes. The examples are designed for classroom demos and assignments.
 
-## Roadmap
-- Add English translations for Chinese filenames and comments
-- Per-subfolder READMEs with run instructions and outputs
-- Unit tests for core examples (files, modules, exceptions)
-- Mock data/pages for deterministic scraping demos
- - Add CI (GitHub Actions) to lint and run selected examples
- - Package selected utilities for reuse (file ops, scraping helpers)
+## Maintainers Notes
+- This repository is actively curated for teaching and self‑study.
+- Examples are intentionally small and focused; feel free to extend.
 
 ## Contributing
-- Fork and open a PR
-- Follow existing style: small, focused scripts per concept
-- Add a short docstring and minimal comments to new examples
- - Include sample inputs/outputs when relevant (CSV, JSON, screenshots)
+- Fork the repository and create a feature branch.
+- Keep examples small and focused; match folder/topic organization.
+- Add a short docstring and minimal comments to explain intent.
+- Provide sample inputs/outputs when relevant (CSV, JSON, screenshots).
 
 ## License
-Consider using MIT license for open sharing. Add a `LICENSE` file before publishing.
+MIT
