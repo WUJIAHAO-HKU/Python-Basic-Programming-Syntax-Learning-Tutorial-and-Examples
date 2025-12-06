@@ -131,11 +131,6 @@ chcp 65001
 - Files: Copies created in destination folders; large file copies use chunked reads.
 - Pygame: Window renders sprites and detects collisions; close with `Esc` or window button.
 
-## Screenshots
-Place images under `resources/screenshots/` and reference them here.
-
-![Basics Example](resources/screenshots/example.png)
-
 ## FAQ
 - Q: Why are there many small scripts?
 	- A: Each script focuses on one concept to reduce cognitive load.
